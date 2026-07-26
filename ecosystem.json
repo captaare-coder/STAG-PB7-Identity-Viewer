@@ -1,0 +1,24 @@
+{
+  "name": "STAG PB7 Ecosystem",
+  "version": "1.0",
+  "components": [
+    {
+      "name": "PB7 Intelligence Studio",
+      "path": "C:\\PB7-Intelligence-Studio",
+      "role": "AI orchestration layer",
+      "version": "v2.4"
+    },
+    {
+      "name": "PB7 Knowledge Server",
+      "path": "C:\\PB7-Knowledge-Server",
+      "role": "Knowledge API layer",
+      "version": "v0.2"
+    },
+    {
+      "name": "STAG Identity",
+      "path": "C:\\STAG_PB7",
+      "role": "Core ecosystem layer",
+      "version": "v1.0"
+    }
+  ]
+}
