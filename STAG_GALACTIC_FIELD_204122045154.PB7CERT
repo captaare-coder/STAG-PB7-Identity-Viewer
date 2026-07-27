@@ -1,0 +1,121 @@
+-----BEGIN STAG PB7CERT-----
+
+STAG GALACTIC ARCHIVE
+PB7 ROOT TRUST RECORD
+
+CERTIFICATE VERSION:
+PB7CERT v1.0
+
+CERTIFICATE AUTHORITY:
+STAG PB7 ROOT AUTHORITY
+
+TRUST CLASS:
+LEVEL 7 COMMAND VERIFIED
+
+==========================================
+
+CERTIFICATE ID:
+STAG-PB7-TS7-204122045154
+
+ARCHIVE DESIGNATION:
+STAG-GF-204122045154
+
+FIELD:
+204122045154
+
+CATEGORY:
+ANOMALIES & PHENOMENA
+
+==========================================
+
+SUBJECT:
+AGENT HANS
+
+CLEARANCE:
+LEVEL 7
+
+ACCESS STATUS:
+AUTHORIZED
+
+==========================================
+
+REPORT STATUS:
+
+ACTIVE ANOMALY INVESTIGATION
+
+CONTAINMENT STATUS:
+
+STAG LEVEL BLACK
+
+SECURITY FLAGS:
+
+[X] ANOMALOUS OBJECTS IN CONTAINMENT
+[X] UNKNOWN ENTITIES SECURED
+[X] PHENOMENA ISOLATION ACTIVE
+[X] TEMPORAL LOCKDOWN ENGAGED
+[X] DIMENSIONAL ACCESS RESTRICTED
+
+==========================================
+
+STAG CONTAINMENT POLICY:
+
+PROTOCOL ALPHA:
+Continuous observation required.
+No unauthorized interaction permitted.
+
+PROTOCOL OMEGA:
+Certificate verification required.
+Identity validation mandatory.
+
+PROTOCOL VOID:
+Activate sector isolation procedures.
+
+PROTOCOL ECLIPSE:
+Maintain maximum distance monitoring
+for unknown phenomena.
+
+==========================================
+
+PB7 ROOT TRUST SECURITY:
+
+CERTIFICATE TYPE:
+
+DIGITAL ROOT AUTHORITY RECORD
+
+TRUST STATUS:
+
+[ VERIFIED ]
+[ ROOT AUTHORITY ACTIVE ]
+[ ACCESS CHAIN ENABLED ]
+
+CRYPTOGRAPHIC STANDARD:
+
+STAG-PB7 SHA-256
+
+FINGERPRINT:
+
+STAG-PB7-XXXX-XXXX-XXXX
+
+==========================================
+
+ISSUER:
+
+STAG
+
+Strategic Technology & Access Group
+
+AUTHORITY:
+
+STAG PB7 ROOT CERTIFICATE AUTHORITY
+
+SECURITY DIVISION:
+
+ADVANCED ACCESS CONTROL
+
+==========================================
+
+WARNING:
+
+UNAUTHORIZED ACCESS PROHIBITED
+
+-----END STAG PB7CERT-----

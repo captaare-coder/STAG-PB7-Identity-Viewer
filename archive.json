@@ -1,0 +1,17 @@
+{
+    "STAG_PB7_ARCHIVE": {
+        "VERSION": "7.0",
+        "STATUS": "ACTIVE",
+        "RECORDS": [
+            {
+                "certificate_id": "STAG-PB7-4E297DF9BE40",
+                "subject": "AGENT HANS",
+                "field": "204122045154",
+                "clearance": "LEVEL 7",
+                "created": "2026-07-24 00:20:55",
+                "fingerprint": "033ACB8DCAF0E45AB57BED61F42A13096AE5A11C1083093640AED4B8992D73E4",
+                "status": "ACTIVE"
+            }
+        ]
+    }
+}
